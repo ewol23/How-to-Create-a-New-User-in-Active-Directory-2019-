@@ -16,7 +16,8 @@ Step 1: Open Active Directory Users and Computers
 
 Step 2: Navigate to the Desired Organizational Unit (OU)
 
-    Expand the Domain:
+    Expand the Domain (https://github.com/ewol23/How-to-Create-a-New-User-in-Active-Directory-2019-/assets/153697751/e00f36dc-125c-4a85-8851-7dd309472ff5) 
+
         In the left pane, expand your domain (mydomain.com in this example) to view the available Organizational Units (OUs).
 
     Select the OU:
