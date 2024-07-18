@@ -26,12 +26,14 @@ Step 2: Navigate to the Desired Organizational Unit (OU)
 
 Step 3: Create a New User
 
+      https://github.com/ewol23/How-to-Create-a-New-User-in-Active-Directory-2019-.wiki.git 
     Initiate the User Creation:
         Right-click on the selected OU (Bankteam), hover over New, and then click on User.
 
 Step 4: Enter User Information
 
     Enter User Details:
+    https://github.com/ewol23/How-to-Create-a-New-User-in-Active-Directory-2019-.wiki.git
         Fill in the required details in the New Object - User dialog box:
             First name: Naira
             Last name: Clemson
