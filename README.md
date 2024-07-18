@@ -11,8 +11,9 @@ Prerequisites
 Steps to Create a New User
 Step 1: Open Active Directory Users and Computers
 
-    Launch the ADUC Console:
-        Open the Start menu and type dsa.msc, then press Enter. This command will open the Active Directory Users and Computers console.
+    Launch  Console:
+        Open the Start menu and type Users and Computers, then press Enter. This command will open the Active Directory Users and Computers console.
+        https://github.com/ewol23/How-to-Create-a-New-User-in-Active-Directory-2019-/blob/0745ce5619a120e782c1960f44402e0c11302640/unnamed-2.png 
 
 Step 2: Navigate to the Desired Organizational Unit (OU)
 
